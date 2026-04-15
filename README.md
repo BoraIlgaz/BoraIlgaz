@@ -48,5 +48,6 @@
 ## 📫 Contact
 
 * 📧 [ilgazparlar@gmail.com](mailto:ilgazparlar@gmail.com)
+* 🌐 https://urielcaelwyn.github.io/portfolio
 
 ---
