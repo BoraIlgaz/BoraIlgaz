@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-* 🎓 11th grade student preparing for mandatory internship
+* 🎓 11th grade **Software Engineering** student 
 * 💻 Focused on **backend and web development**
 * 🧠 Interested in **problem solving and building real-world applications**
 * 🌱 Currently improving my skills in **Python, C#, and web technologies**
