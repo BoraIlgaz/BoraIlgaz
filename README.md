@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/Python-%2320232a.svg?style=flat&logo=python&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=61dafb" />
   <img src="https://img.shields.io/badge/Flutter-%2320232a.svg?style=flat&logo=flutter&logoColor=61dafb" />
+  
+  <img src="https://img.shields.io/badge/HTML5-%23000000.svg?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%23000000.svg?style=flat&logo=css3&logoColor=white" />
+
 </p>
 
 ## 🚀 About Me
