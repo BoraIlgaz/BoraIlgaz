@@ -32,7 +32,7 @@
 
 ### ⚙️ Tools & Platforms
 
-* Visual Studio • VS Code • Android Studio • TIA Portal • Git & GitHub
+* Visual Studio • VS Code • Android Studio • Git & GitHub
 
 ---
 
