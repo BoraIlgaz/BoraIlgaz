@@ -15,8 +15,8 @@
 * 🎓 **12th Grade IT & Software Development Student**
 * 🏅 **Academic Excellence:** 11th Grade Year-End GPA: **97.51 / 100** (Ranked 1st in School / Okul Birincisi)
 * 🏢 **Current Status:** Software Development Intern at **KMK Bilgi Teknolojileri A.Ş.**
-* 💻 Focused on **backend, web development, IoT, and industrial automation architectures**
-* 🧠 Interested in **problem solving, embedded systems, and building high-performance real-world applications**
+* 💻 Focused on **modern web technologies, full-stack web development, and content management architectures**
+* 🧠 Interested in **building responsive web applications, problem solving, and corporate digital solutions**
 
 ---
 
@@ -32,7 +32,7 @@
 
 ### ⚙️ Tools & Platforms
 
-* Visual Studio • VS Code • Android Studio • TIA Portal • Git & GitHub
+* Visual Studio • VS Code • Android Studio • Git & GitHub
 
 ---
 
@@ -44,7 +44,7 @@
 * 🎮 **Kelime Macerası:** Grammar-themed 3D educational game developed with Unity & C#.
 * 🏝️ **Survive-Island:** Open-world survival game project co-developed with Evrencan Türk (C# & Unity).
 
-*(Actively expanding the architecture and hardware integrations 🚀)*
+*(Actively expanding the architecture and web-ready solutions 🚀)*
 
 ---
 
@@ -81,4 +81,4 @@
 
 ---
 
-> *“Turning complex industrial problems into elegant, automated code.”*
+> *“Turning complex problems into elegant, dynamic web applications.”*
