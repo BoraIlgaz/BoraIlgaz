@@ -63,6 +63,8 @@
   [![MEB Robot](https://img.shields.io/badge/See_the_Certificate-000000?style=flat-square&logo=target&logoColor=white)](./certificates/MEB_Robot_Katilim_Belgesi.pdf)
 * 🌐 **C# Programlama Dili ile Nesne Yönelimli Programlama** — BTK Akademi  
   [![BTK Akademi](https://img.shields.io/badge/See_the_Certificate-000000?style=flat-square&logo=target&logoColor=white)](./certificates/CSHARP_Sertifika.pdf)
+* ⚙️ **C++ Programlama Dili** — BTK Akademi  
+  [![BTK Akademi](https://img.shields.io/badge/See_the_Certificate-000000?style=flat-square&logo=target&logoColor=white)](./certificates/CPP_Sertifika.pdf)
 * 📱 **Flutter ile Mobil Uygulama Geliştirme** — BTK Akademi  
   [![BTK Akademi](https://img.shields.io/badge/See_the_Certificate-000000?style=flat-square&logo=target&logoColor=white)](./certificates/Flutter_Sertifika.pdf)
 * 🐍 **Python Programlama Dili** — BTK Akademi  
