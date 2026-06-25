@@ -44,7 +44,7 @@
 * 🎮 **Kelime Macerası:** Grammar-themed 3D educational game developed with Unity & C#.
 * 🏝️ **Survive-Island:** Open-world survival game project co-developed with Evrencan Türk (C# & Unity).
 
-*(Actively expanding the architecture and hardware integrations 🚀)*
+*(Actively adding new projects 🚀)*
 
 ---
 
@@ -81,4 +81,4 @@
 
 ---
 
-> *“Turning complex industrial problems into elegant, automated code.”*
+> *“Turning complex problems into elegant code.”*
