@@ -79,7 +79,7 @@
 ## 📫 Contact
 
 * 📧 [ilgazparlar@gmail.com](mailto:ilgazparlar@gmail.com)
-* 🌐 [borailgazparlar.github.io/portfolio](https://borailgazparlar.github.io/portfolio)
+* 🌐 [borailgazparlar.github.io/portfolio](https://borailgazparlar.github.io/portfolio) / On Progress
 
 ---
 
