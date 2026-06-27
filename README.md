@@ -61,6 +61,10 @@
 
 * 🏆 **MEB Robot Yarışması Katılım Belgesi** — T.C. Millî Eğitim Bakanlığı  
   [![MEB Robot](https://img.shields.io/badge/See_the_Certificate-000000?style=flat-square&logo=target&logoColor=white)](./certificates/MEB_Robot_Katilim_Belgesi.pdf)
+* 🔬 **4006-A TÜBİTAK Bilim Fuarları - 2026** — TÜBİTAK  
+  [![TÜBİTAK 2026](https://img.shields.io/badge/See_the_Certificate-000000?style=flat-square&logo=target&logoColor=white)](./certificates/Tubitak_Katilim_2026.pdf)
+* 🔬 **4006-A TÜBİTAK Bilim Fuarları - 2025** — TÜBİTAK  
+  [![TÜBİTAK 2025](https://img.shields.io/badge/See_the_Certificate-000000?style=flat-square&logo=target&logoColor=white)](./certificates/Tubitak_Katilim_2025.pdf)
 * 🌐 **C# Programlama Dili ile Nesne Yönelimli Programlama** — BTK Akademi  
   [![BTK Akademi](https://img.shields.io/badge/See_the_Certificate-000000?style=flat-square&logo=target&logoColor=white)](./certificates/CSHARP_Sertifika.pdf)
 * ⚙️ **C++ Programlama Dili** — BTK Akademi / On Progress  
